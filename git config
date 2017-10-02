@@ -1,0 +1,21 @@
+http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/
+
+
+
+CONFIGURAR nome no git
+
+git config --global user.name "Fulano de Tal"
+$ git config --global user.email fulanodetal@exemplo.br
+
+testar configurações
+$ git config --list
+
+
+
+
+enviar arquivos http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/
+
+enviar arquivos 
+https://pt.stackoverflow.com/questions/66866/comandos-para-fazer-upload-de-arquivos-para-o-github
+
+comandos para git hub
